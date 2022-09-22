@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-_ Omar Abd Elraheem
+_ Omar Abd Elraheem omar
 _ Savaa Mahmoud Mohamed
 
 This project is a starting point for a Flutter application.

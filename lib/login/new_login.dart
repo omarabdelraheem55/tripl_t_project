@@ -220,10 +220,11 @@ class _SignInState extends State<SignIn> {
       "password":password.text,
               });
     dynamic jsonResponse = jsonDecode(response.body);
+    print("${response.statusCode}");
     if(response.statusCode==200)
     {
       LoginResponse loginResponse =LoginResponse.fromJson(jsonResponse);
-      print("${loginResponse.token}");
+      print("${response.statusCode}");
       Navigator.push(context,MaterialPageRoute(builder:(_)=>BottomNavigation()
       ));
     }else{

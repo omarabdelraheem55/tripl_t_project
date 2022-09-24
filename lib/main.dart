@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:triplt_project/Provider/new_provider.dart';
 import 'package:triplt_project/Screen2/Screen2.dart';
+import 'package:triplt_project/login/new_login.dart';
 import 'package:triplt_project/new_color/NewColor.dart';
 
 void main() {
@@ -44,7 +45,7 @@ class MyApp extends StatelessWidget {
                     ),
                   ),
                 ),
-                nextScreen: Screen2(),),),);
+                nextScreen: SignIn(),),),);
 
   }
 }

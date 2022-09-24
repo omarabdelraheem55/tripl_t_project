@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 _ Eng / ُOmar Abd Elraheem omar
 
-_ Eng / Savaa Mahmoud Mohamed
+_ Eng / Safaa Mahmoud Mohamed
 
 This project is a starting point for a Flutter application.
 

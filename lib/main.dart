@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
                     ),
                   ),
                 ),
-                nextScreen: SignIn(),),),);
+                nextScreen: Screen2(),),),);
 
   }
 }
